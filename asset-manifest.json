@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/upgrade-orders/static/css/main.16ca4b46.css",
-    "main.js": "/upgrade-orders/static/js/main.c8827fa9.js",
+    "main.js": "/upgrade-orders/static/js/main.d4aea300.js",
     "static/js/453.99a55f81.chunk.js": "/upgrade-orders/static/js/453.99a55f81.chunk.js",
     "index.html": "/upgrade-orders/index.html",
     "main.16ca4b46.css.map": "/upgrade-orders/static/css/main.16ca4b46.css.map",
-    "main.c8827fa9.js.map": "/upgrade-orders/static/js/main.c8827fa9.js.map",
+    "main.d4aea300.js.map": "/upgrade-orders/static/js/main.d4aea300.js.map",
     "453.99a55f81.chunk.js.map": "/upgrade-orders/static/js/453.99a55f81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16ca4b46.css",
-    "static/js/main.c8827fa9.js"
+    "static/js/main.d4aea300.js"
   ]
 }
